@@ -20,6 +20,7 @@
 ![P1](https://github.com/shivdev729/elevate_labs_task_04/blob/main/p1.JPG)
 ![P2](https://github.com/shivdev729/elevate_labs_task_04/blob/main/p2.JPG)
 ![P3](https://github.com/shivdev729/elevate_labs_task_04/blob/main/p3.JPG)
+![Telnet blocked](https://github.com/shivdev729/elevate_labs_task_04/blob/main/telnet_blocked.JPG)
 
 ---
 
@@ -28,7 +29,7 @@
 ### ➤ Method (GUI)
 
 ![P4](https://github.com/shivdev729/elevate_labs_task_04/blob/main/p4.JPG)
-![Telnet blocked](https://github.com/shivdev729/elevate_labs_task_04/blob/main/telnet_blocked.JPG)
+
 
 ---
 
